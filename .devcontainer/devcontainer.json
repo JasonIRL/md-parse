@@ -1,0 +1,8 @@
+{
+  "name": "md-parse-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/zsh-plugins:0": {},
+    "ghcr.io/devcontainers-contrib/features/typescript:2": {}
+  }
+}
